@@ -12,4 +12,4 @@ $info = """IP publica:n$ipPublican IP privadas:n$ipLocal
 $codificado = [Convertir]::ToBase64String([Texto. Codificación]::Unicode. GetBytes($info))
 Conjunto - Contenido - Valor
 "$codificado" - Camino
-C:\Users\juliocazares\Documents\LCP Practicas
+C:\Users\juliocazares\Documents\Lpc
