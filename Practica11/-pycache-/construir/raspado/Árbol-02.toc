@@ -1,0 +1,25 @@
+('c:\\usuarios\\Julio '
+ 'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8',
+ 'tcl8',
+ [],
+ «DATOS»,
+ [('tcl8\\8.6\\http-2.9.0.tm',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8\\8.6\\http-2.9.0.tm',
+   'DATOS'),
+  ('tcl8\\8.5\\msgcat-1.6.1.tm',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8\\8.5\\msgcat-1.6.1.tm',
+   'DATOS'),
+  ('tcl8\\8.5\\tcltest-2.5.0.tm',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8\\8.5\\tcltest-2.5.0.tm',
+   'DATOS'),
+  ('tcl8\\8.4\\platform-1.0.14.tm',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8\\8.4\\platform-1.0.14.tm',
+   'DATOS'),
+ ('tcl8\\8.4\\plataforma\\shell-1.1.4.tm',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\tcl\\tcl8.6\\.. \\tcl8\\8.4\\platform\\shell-1.1.4.tm',
+   'DATOS')])
