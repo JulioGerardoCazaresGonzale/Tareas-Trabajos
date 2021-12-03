@@ -1,0 +1,84 @@
+([('raspado.exe',
+   'C:\\Usuarios\\Julio Cazares\\Documentos\\practica '
+   'scraping\\build\\scraping\\scraping.exe',
+   'EJECUTABLE'),
+ («VCRUNTIME140.dll»,
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARIO'),
+  ('python38.dll',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programas\\python\\python38\\python38.dll',
+   'BINARIO'),
+ ('seleccionar',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSIÓN'),
+  ('unicodedata',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSIÓN'),
+  ('_socket',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSIÓN'),
+  ('_overlapped',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_overlapped.pyd',
+   'EXTENSIÓN'),
+  ('_ssl',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\python38\\DLLs\\_ssl.pyd',
+   'EXTENSIÓN'),
+  ('_asyncio',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_asyncio.pyd',
+   'EXTENSIÓN'),
+  ('_queue',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\python38\\DLLs\\_queue.pyd',
+   'EXTENSIÓN'),
+  ('_ctypes',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_ctypes.pyd',
+   'EXTENSIÓN'),
+  ('_multiprocessing',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSIÓN'),
+  ('pyexpat',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\pyexpat.pyd',
+   'EXTENSIÓN'),
+ («_decimal»,
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSIÓN'),
+  ('_hashlib',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSIÓN'),
+ («_lzma»,
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSIÓN'),
+  ('_bz2',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\python38\\DLLs\\_bz2.pyd',
+   'EXTENSIÓN'),
+  ('libssl-1_1.dll',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARIO'),
+  ('libcrypto-1_1.dll',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARIO'),
+  ('libffi-7.dll',
+   'c:\\usuarios\\Julio '
+   'Cazares\\appdata\\local\\programs\\python\\python38\\DLLs\\libffi-7.dll',
+   'BINARIO'),
+  ('base_library.zip',
+   'C:\\Usuarios\\Julio Cazares\\Documentos\\practica '
+   'scraping\\build\\scraping\\base_library.zip',
+   'DATOS')],)
