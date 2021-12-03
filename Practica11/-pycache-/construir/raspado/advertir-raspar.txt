@@ -1,0 +1,74 @@
+Este archivo enumera los módulos que PyInstaller no pudo encontrar. Esto no
+necesariamente significa que este módulo es necesario para ejecutar su programa. Python y
+Los paquetes de Python de 3ª parte incluyen muchos módulos condicionales u opcionales. Para
+Por ejemplo, el módulo 'NTPATH' sólo existe en Windows, mientras que el módulo
+'posixpath' solo existe en sistemas Posix.
+
+Tipos si se importan:
+* nivel superior: importado en el nivel superior - mira estos primeros
+* condicional: importado dentro de una instrucción if
+* retrasado: importado desde dentro de una función
+* opcional: importado dentro de una instrucción try-except-
+
+IMPORTANTE: NO publique esta lista en el rastreador de problemas. Úsalo como base para
+ usted mismo rastreando el módulo que falta. ¡Gracias!
+
+falta un módulo denominado _posixsubprocess: importado por subproceso (opcional), multiprocessing.util (retrasado)
+falta el módulo llamado 'org.python' - importado por copia (opcional), xml.sax (retrasado, condicional)
+falta un módulo denominado _frozen_importlib_external: importado por importlib._bootstrap (retrasado), importlib (opcional), importlib.abc (opcional), zipimport (nivel superior)
+módulo excluido denominado _frozen_importlib : importado por importlib (opcional), importlib.abc (opcional), zipimport (nivel superior)
+falta un módulo llamado urllib.getproxies_environment - importado por urllib (condicional), requests.compat (condicional)
+falta un módulo llamado urllib.proxy_bypass_environment - importado por urllib (condicional), requests.compat (condicional)
+falta un módulo llamado urllib.proxy_bypass - importado por urllib (condicional), requests.compat (condicional)
+falta el módulo denominado urllib.getproxies - importado por urllib (condicional), requests.compat (condicional)
+falta el módulo llamado urllib.urlencode - importado por urllib (condicional), requests.compat (condicional)
+falta un módulo llamado urllib.unquote_plus - importado por urllib (condicional), requests.compat (condicional)
+falta un módulo llamado urllib.quote_plus - importado por urllib (condicional), requests.compat (condicional)
+falta el módulo llamado urllib.unquote - importado por urllib (condicional), requests.compat (condicional)
+falta el módulo llamado urllib.quote - importado por urllib (condicional), requests.compat (condicional)
+falta un módulo denominado _posixshmem: importado por multiprocessing.resource_tracker (condicional), multiprocessing.shared_memory (condicional)
+falta un módulo denominado multiprocessing.set_start_method: importado por multiprocesamiento (nivel superior), multiprocessing.spawn (nivel superior)
+falta un módulo denominado multiprocessing.get_start_method: importado por multiprocesamiento (nivel superior), multiprocessing.spawn (nivel superior)
+falta un módulo denominado multiprocessing.get_context: importado por multiprocessing (nivel superior), multiprocessing.pool (nivel superior), multiprocessing.managers (nivel superior), multiprocessing.sharedctypes (nivel superior)
+falta el módulo denominado multiprocesamiento. TimeoutError: importado por multiprocesamiento (nivel superior), multiprocessing.pool (nivel superior)
+falta un módulo denominado _scproxy - importado por urllib.request (condicional)
+falta un módulo llamado termios - importado por tty (nivel superior), getpass (opcional)
+falta el módulo llamado 'java.lang' - importado por plataforma (retrasado, opcional), xml.sax._exceptions (condicional)
+falta el módulo denominado multiprocesamiento. BufferTooShort - importado por multiprocesamiento (nivel superior), multiprocessing.connection (nivel superior)
+falta el módulo denominado multiprocesamiento. AuthenticationError: importado por multiprocesamiento (nivel superior), multiprocessing.connection (nivel superior)
+falta el módulo denominado asyncio. DefaultEventLoopPolicy - importado por asyncio (retrasado, condicional), asyncio.events (retrasado, condicional)
+falta el módulo llamado vms_lib - importado por plataforma (retrasado, condicional, opcional)
+falta un módulo llamado java - importado por plataforma (retrasado)
+falta el módulo denominado _winreg: importado por plataforma (retrasado, opcional), requests.utils (retrasado, condicional, opcional)
+falta el módulo denominado línea de lectura: importado por cmd (retrasado, condicional, opcional), código (retrasado, condicional, opcional), pdb (retrasado, opcional)
+falta el módulo denominado org - importado por pickle (opcional)
+falta el módulo denominado grp - importado por shutil (opcional), tarfile (opcional), pathlib (retrasado)
+falta el módulo llamado pwd - importado por posixpath (retrasado, condicional), shutil (opcional), tarfile (opcional), pathlib (retrasado, condicional, opcional), http.server (retrasado, opcional), webbrowser (retrasado), netrc (retrasado, condicional), getpass (retrasado), distutils.util (retrasado, condicional, opcional)
+falta un módulo llamado posix - importado por os (condicional, opcional), shutil (condicional)
+falta el módulo denominado recurso: importado por posix (nivel superior), test.support (opcional)
+Falta un módulo llamado pyimod03_importers - importado por C:\Users\Noe Rivera\AppData\Local\Programs\Python\Python38\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgutil.py (nivel superior)
+falta un módulo denominado iconv_codec - importado por bs4.dammit (opcional)
+falta un módulo denominado cchardet - importado por bs4.dammit (opcional)
+falta un módulo denominado lxml - importado por bs4.builder._lxml (nivel superior)
+falta el módulo denominado 'html5lib.treebuilders' - importado por bs4.builder._html5lib (opcional)
+falta un módulo llamado 'html5lib.constants' - importado por bs4.builder._html5lib (nivel superior)
+falta un módulo llamado html5lib - importado por bs4.builder._html5lib (nivel superior)
+Falta el módulo denominado StringIO - importado por urllib3.packages.six (condicional), requests.compat (condicional)
+Falta el módulo llamado Cookie - importado por requests.compat (condicional)
+falta el módulo llamado cookielib - importado por requests.compat (condicional)
+falta el módulo denominado urllib2 - importado por requests.compat (condicional)
+falta el módulo denominado urlparse - importado por requests.compat (condicional)
+falta un módulo denominado simplejson - importado por requests.compat (opcional)
+falta un módulo denominado backports - importado por urllib3.packages.ssl_match_hostname (opcional)
+falta un módulo denominado brotli: importado por urllib3.util.request (opcional), urllib3.response (opcional)
+Falta un módulo denominado Queue - importado por urllib3.util.queue (condicional)
+falta el módulo denominado "'urllib3.packages.six.moves.urllib'.parse": importado por urllib3.request (nivel superior), urllib3.poolmanager (nivel superior)
+módulo de tiempo de ejecución denominado urllib3.packages.six.moves - importado por http.client (nivel superior), urllib3.util.response (nivel superior), urllib3.connectionpool (nivel superior), 'urllib3.packages.six.moves.urllib' (nivel superior), urllib3.util.queue (nivel superior)
+falta un módulo denominado calcetines - importado por urllib3.contrib.socks (opcional)
+falta un módulo denominado _dummy_threading - importado por dummy_threading (opcional)
+falta un módulo denominado 'typing.io' - importado por importlib.resources (nivel superior)
+falta un módulo llamado criptografía: importado por urllib3.contrib.pyopenssl (nivel superior), solicitudes (condicional, opcional)
+Falta el módulo llamado 'OpenSSL.crypto' - importado por urllib3.contrib.pyopenssl (retrasado)
+falta el módulo llamado 'cryptography.x509' - importado por urllib3.contrib.pyopenssl (retrasado, opcional)
+falta el módulo llamado 'cryptography.hazmat' - importado por urllib3.contrib.pyopenssl (nivel superior)
+Falta un módulo llamado OpenSSL - importado por urllib3.contrib.pyopenssl (nivel superior)
